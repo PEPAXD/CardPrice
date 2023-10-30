@@ -7,7 +7,7 @@ https://pepaxd.github.io/CardPrice/
 CardPrice is a web page that displays different pricing plans in the form of cards. It uses HTML and CSS for design and styling. Each card represents a subscription plan with details about the name, price, and plan features. The background colors of the cards change when you hover over them, providing a pleasant interactive experience for users.
 
 ## Screenshot
-![Screenshot](screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 ## How to Use
 Open the HTML file in your web browser or Clone/download this repository in your machine and Open the `index.html`.
